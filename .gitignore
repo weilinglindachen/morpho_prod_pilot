@@ -1,0 +1,5 @@
+data/raw/hist_corp_full.csv
+data/raw/*.json
+data/processed/hist_corp_contexts.json
+data/fonts/*.ttf
+notebooks/*.pkl
