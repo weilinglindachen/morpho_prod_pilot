@@ -3,4 +3,4 @@ data/raw/*.json
 data/processed/hist_corp_contexts.json
 data/fonts/*.ttf
 notebooks/*.pkl
-.DS_Store
+.DS_Store.DS_Store
